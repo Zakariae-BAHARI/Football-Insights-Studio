@@ -25,8 +25,8 @@ Below is the architecture of the project:
      - `all_players_cleaned.csv`: Contains cleaned data of all players.
 
 3. **Data Exploration and Analysis** :
-   - Explore and analyze the data of Moroccan players : Moroccan_players_analysis.ipynb
-   - Generate reports on Moroccan players : Moroccan_Players_Analysis_Report.pdf
+   - Explore and analyze the data of Moroccan players : `Moroccan_players_analysis.ipynb`
+   - Generate reports on Moroccan players : `Moroccan_Players_Analysis_Report.pdf`
 
 4. **Machine Learning Model** :
-   - Use cleaned data of all players to build an ML model that predicts the best position for a football player based on their characteristics : best_position_predictor.ipynb
+   - Use cleaned data of all players to build an ML model that predicts the best position for a football player based on their characteristics : `best_position_predictor.ipynb`
